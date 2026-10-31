@@ -22,7 +22,7 @@ public class RezervasyonZamani {
 		if (bitisSaati <= baslangicSaati) {
 			throw new IllegalArgumentException("bitiş saati başlangış saatinden büyük olmalı  ");
 		}
-		
+		  
 		
 		this.tarih = tarih;
 		this.baslangicSaati = baslangicSaati;
