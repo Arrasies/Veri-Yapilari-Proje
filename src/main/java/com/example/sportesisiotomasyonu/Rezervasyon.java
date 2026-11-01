@@ -1,4 +1,4 @@
-package rezervasyon;
+package com.example.sportesisiotomasyonu;
 
 public class Rezervasyon {
 	private int id;

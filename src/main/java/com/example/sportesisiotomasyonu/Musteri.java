@@ -1,3 +1,5 @@
+package com.example.sportesisiotomasyonu;
+
 public class Musteri {
     private int musteriId;
     private String adSoyad;
